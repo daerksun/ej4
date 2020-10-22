@@ -1,0 +1,11 @@
+Message[301] C:\PROGRAM FILES (X86)\MICROCHIP\MPLABX\V5.35\MPASMX\P16F628A.INC 34 : MESSAGE: (Processor-header file mismatch.  Verify selected processor.)
+Warning[205] C:\USERS\YO\MPLABXPROJECTS\EX1EJ4.X\EJ4.ASM 2 : Found directive in column 1. (__CONFIG)
+Warning[203] C:\USERS\YO\MPLABXPROJECTS\EX1EJ4.X\EJ4.ASM 5 : Found opcode in column 1. (GOTO)
+Message[302] C:\USERS\YO\MPLABXPROJECTS\EX1EJ4.X\EJ4.ASM 22 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\YO\MPLABXPROJECTS\EX1EJ4.X\EJ4.ASM 57 : Using default destination of 1 (file).
+Message[305] C:\USERS\YO\MPLABXPROJECTS\EX1EJ4.X\EJ4.ASM 59 : Using default destination of 1 (file).
+Message[305] C:\USERS\YO\MPLABXPROJECTS\EX1EJ4.X\EJ4.ASM 61 : Using default destination of 1 (file).
+Message[305] C:\USERS\YO\MPLABXPROJECTS\EX1EJ4.X\EJ4.ASM 76 : Using default destination of 1 (file).
+Message[305] C:\USERS\YO\MPLABXPROJECTS\EX1EJ4.X\EJ4.ASM 78 : Using default destination of 1 (file).
+Message[305] C:\USERS\YO\MPLABXPROJECTS\EX1EJ4.X\EJ4.ASM 80 : Using default destination of 1 (file).
+Warning[205] C:\USERS\YO\MPLABXPROJECTS\EX1EJ4.X\EJ4.ASM 83 : Found directive in column 1. (END)
